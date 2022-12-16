@@ -1,0 +1,6 @@
+100 element array (memory simulator)
+var: accumulator -> to accumulate results
+var: instructionCounter -> number of memory location
+var: operationCode -> store operation currently being conducted
+var: operand -> current memory location to store for operation purposes
+var: instructionRegister -> stores the current instruction being executed
