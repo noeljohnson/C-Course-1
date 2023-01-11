@@ -9,7 +9,7 @@ void towOfHanoi(int n, int from, int to, int supp);
 
 int main(void){
   
-  int numDiscs = 24; //1 + rand() % 4;
+  int numDiscs = 21; //1 + rand() % 4;
 
   towOfHanoi(numDiscs, 1, 3, 2);
 
